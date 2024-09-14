@@ -1,11 +1,11 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 #logo {
-    margin: 0px;
-    padding: 8px;
-    font-family: "Fredoka One", sans-serif;
+    margin: 5px;
+    padding: 12px;
+    font-family: Helvetica, sans-serif;
     width: 20%;
     
 }
@@ -15,8 +15,8 @@ ul{
 }
 
 body > header{
-    background-color: orange;
-    color: white;
+    background-color: blue;
+    color: red;
     display: flex;
     height: 15vh;
     align-items: center;
@@ -30,9 +30,7 @@ body > header > nav > ul {
 .navbutton {
     color: white;
     text-decoration: none;
-    padding: 12px;
-    border: 1px solid white;
-    border-radius: 10%;
+    padding: 10px;
 
 }
 
@@ -57,19 +55,19 @@ h2 {
 }
 
 body > footer {
-    background-color: orange;
+    background-color: blue;
     display: flex;
 }
 
 img {
-    border-radius: 100%;
+    border-radius: 10%;
 }
 #nav-ul{
     display: flex;
 }
 
 #nav-ul >li{
-padding: 8px;
+padding: 10px;
 margin: 16px;
 }
 
